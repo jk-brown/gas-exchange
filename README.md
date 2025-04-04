@@ -1,4 +1,4 @@
-# Gas Exhchange and the Great Oxygenation Event
+# Gas Exchange and the Great Oxygenation Event
 
 **Citation**: Brown, J.K. (2025). Gas Exhchange and the Great Oxygenation Event [Software]. GitHub. https://github.com/jk-brown/gas-exhnage. 
 
