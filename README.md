@@ -1,6 +1,6 @@
 # Gas Exchange and the Great Oxygenation Event
 
-**Citation**: Brown, J.K. (2025). Gas Exchange and the Great Oxygenation Event [Software]. GitHub. https://github.com/jk-brown/gas-exhnage. 
+**Citation**: Brown, J.K. (2025). Gas Exchange and the Great Oxygenation Event [Software]. GitHub. https://github.com/jk-brown/gas-exchange. 
 
 This repository was created to re-produce a figure of oxygen concentration over the history of Earth:
 
