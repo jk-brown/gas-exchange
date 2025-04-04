@@ -4,7 +4,7 @@
 
 This repository was created to re-produce a figure of oxygen concentration over the history of Earth:
 
- ![o2_conc_fig](https://github.com/user-attachments/assets/91d5d3b1-caf3-404b-80b1-6ca1edb1f547)
+![o2_conc_fig copy](https://github.com/user-attachments/assets/65546944-5e8b-433e-a567-316e2df2f459)
 
 This figure is used in a lecture on gas exchnage for Introductory Biology.
 
